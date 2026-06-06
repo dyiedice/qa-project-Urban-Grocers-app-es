@@ -1,4 +1,4 @@
-﻿# Requerimientos para ejecutar las preubas de kit_name_kit_test  
+﻿# Requerimientos para ejecutar las pruebas de kit_name_kit_test  
 - Antes de ejecutar actualizar el server y su link de configuration.py
 - Necesitas tener instalados los paquetes pytest y request para ejecutar las pruebas.
 - Ejecuta todas las pruebas con el comando pytest.
